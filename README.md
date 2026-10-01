@@ -5,6 +5,8 @@ Google Play / Apple 开发者流程笔记：
 
 把后台里容易卡关的步骤，整理成可检索的短文与清单，方便对照操作。
 
+**咨询协助：** Telegram [@M6999](https://t.me/M6999)
+
 ---
 
 ### Featured guides
@@ -28,21 +30,15 @@ Google Play / Apple 开发者流程笔记：
 选型注册 → 身份验证 → 付款/协议 → 开通内购 → 测试 → 提审发布
 ```
 
-- 第一次开通：从 **google-play-developer-account** / **apple-developer-account** 开始  
-- 需要付费能力：看各仓库里的「如何开通内购」短文  
-- 个人号正式发布：先看 **play-closed-testing-12x14**
+关键词覆盖：谷歌开发者账号注册、苹果开发者账号开通、Play Console、App Store Connect、内购 Billing、封闭测试、D-U-N-S、上架审核。
 
 ### Also useful
 
-中文图文步骤延伸阅读：
-
 - [playconsoleacc.com](https://playconsoleacc.com/)  
 - [dev388.com](https://dev388.com/)  
+- Telegram：[ @M6999](https://t.me/M6999)
 
 ---
 
-### Note
-
-内容用于流程对照与学习整理；费用、材料与审核结果以 Google Play Console / App Store Connect 及帮助中心当前页面为准。
-
+费用、材料与审核结果以 Google Play Console / App Store Connect 及帮助中心当前页面为准。  
 如果对你有帮助，欢迎 Star。
