@@ -1,17 +1,17 @@
-### Hi, I'm **puzzledicon** 👋
+### Hi, I'm **puzzledicon**
 
-整理 **Google Play / Apple** 开发者相关的流程笔记：  
-**如何注册 · 如何验证 · 如何开通内购 · 如何准备上架**。
+Google Play / Apple 开发者流程笔记：  
+**如何注册 · 如何验证 · 如何开通内购 · 如何准备上架**
 
-适合第一次接触开发者后台、需要一份可对照清单的朋友。实际操作请以平台帮助中心与 Console / App Store Connect 当前页面为准。
+把后台里容易卡关的步骤，整理成可检索的短文与清单，方便对照操作。
 
 ---
 
-### 快速入口
+### Featured guides
 
-| 主题 | 仓库 | 在线阅读 |
-|------|------|----------|
-| Google Play 账号注册 / 验证 | [google-play-developer-account](https://github.com/puzzledicon/google-play-developer-account) | [Pages](https://puzzledicon.github.io/google-play-developer-account/) |
+| Guide | Repo | Read online |
+|------|------|-------------|
+| Play 账号注册 / 验证 | [google-play-developer-account](https://github.com/puzzledicon/google-play-developer-account) | [Pages](https://puzzledicon.github.io/google-play-developer-account/) |
 | Apple Developer 注册 | [apple-developer-account](https://github.com/puzzledicon/apple-developer-account) | [Pages](https://puzzledicon.github.io/apple-developer-account/) |
 | 封闭测试 12×14 | [play-closed-testing-12x14](https://github.com/puzzledicon/play-closed-testing-12x14) | [Pages](https://puzzledicon.github.io/play-closed-testing-12x14/) |
 | Play 上架与内购 | [play-app-publishing](https://github.com/puzzledicon/play-app-publishing) | [Pages](https://puzzledicon.github.io/play-app-publishing/) |
@@ -22,30 +22,27 @@
 
 ---
 
-### 你能在这里找到
-
-- 注册前要准备什么材料  
-- 个人 / 组织路径怎么选  
-- 付款资料与内购如何一步步开通  
-- 测试轨道、提审清单与常见卡点  
+### Learning path
 
 ```text
-注册开通 → 身份验证 → 付款/协议 → 内购配置 → 测试 → 提审发布
+选型注册 → 身份验证 → 付款/协议 → 开通内购 → 测试 → 提审发布
 ```
 
-### 延伸阅读
+- 第一次开通：从 **google-play-developer-account** / **apple-developer-account** 开始  
+- 需要付费能力：看各仓库里的「如何开通内购」短文  
+- 个人号正式发布：先看 **play-closed-testing-12x14**
 
-想看更细的中文图文步骤，也可以对照：
+### Also useful
+
+中文图文步骤延伸阅读：
 
 - [playconsoleacc.com](https://playconsoleacc.com/)  
 - [dev388.com](https://dev388.com/)  
 
 ---
 
-### 使用建议
+### Note
 
-1. 先打开对应主题仓库的 README / Pages  
-2. 按目录短文逐项勾选  
-3. 回到官方后台完成实际操作  
+内容用于流程对照与学习整理；费用、材料与审核结果以 Google Play Console / App Store Connect 及帮助中心当前页面为准。
 
-如果这些笔记对你有帮助，欢迎 Star 收藏，方便下次查找。
+如果对你有帮助，欢迎 Star。
